@@ -3,8 +3,6 @@
 using namespace std;
 
 int main(){
-//canasta familiar (código 101) tiene 30% de descuento = 0.3
-//aseo (código 103) tiene 20% de descuento = 0.2
 //ropa (código 201) tiene 25% de descuento = 0.25
 //electrodomésticos (código 301) tienen 10% de descuento = 0.1
 //muebles (código 302) tienen 15% de descuento = 0.15
